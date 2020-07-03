@@ -1,0 +1,7 @@
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\bin\Debug\aula35.exe.config
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\bin\Debug\aula35.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\bin\Debug\aula35.pdb
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\obj\Debug\aula35.csprojResolveAssemblyReference.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\obj\Debug\aula35.csproj.CoreCompileInputs.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\obj\Debug\aula35.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula35\aula35\obj\Debug\aula35.pdb

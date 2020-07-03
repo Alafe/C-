@@ -1,0 +1,7 @@
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\bin\Debug\aula24.exe.config
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\bin\Debug\aula24.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\bin\Debug\aula24.pdb
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\obj\Debug\aula24.csprojResolveAssemblyReference.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\obj\Debug\aula24.csproj.CoreCompileInputs.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\obj\Debug\aula24.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula24\aula24\obj\Debug\aula24.pdb

@@ -1,0 +1,6 @@
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula27\aula27\bin\Debug\aula27.exe.config
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula27\aula27\bin\Debug\aula27.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula27\aula27\bin\Debug\aula27.pdb
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula27\aula27\obj\Debug\aula27.csproj.CoreCompileInputs.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula27\aula27\obj\Debug\aula27.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\C#\aula27\aula27\obj\Debug\aula27.pdb

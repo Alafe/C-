@@ -1,0 +1,7 @@
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\bin\Debug\aula08.exe.config
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\bin\Debug\aula08.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\bin\Debug\aula08.pdb
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\obj\Debug\aula08.csprojResolveAssemblyReference.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\obj\Debug\aula08.csproj.CoreCompileInputs.cache
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\obj\Debug\aula08.exe
+C:\Users\ALAFE\Documents\Visual Studio 2017\Projects\curso c#\aula08\aula08\obj\Debug\aula08.pdb
