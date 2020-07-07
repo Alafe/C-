@@ -83,3 +83,21 @@ Aulas:
 40 - classe sealed
 
 41 - Acessors GET e SET
+
+42 - indexadores de classes
+
+43 - 
+
+44 - 
+
+45 - 
+
+46 - 
+
+47 - 
+
+48 - 
+
+49 - 
+
+50 - 
