@@ -4,14 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7FC9E57-5AEF-4CF1-AFB5-29BB6357F4D6}</ProjectGuid>
+    <ProjectGuid>{ECC666D0-EB73-4380-8630-C0AE326700C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>aula36</RootNamespace>
-    <AssemblyName>aula36</AssemblyName>
+    <RootNamespace>aula37</RootNamespace>
+    <AssemblyName>aula37</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
