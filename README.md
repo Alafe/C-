@@ -90,9 +90,9 @@ Aulas:
 
 44 - Struct
 
-45 - 
+45 - Array de estruturas
 
-46 - 
+46 - Métodos que retornam objetos
 
 47 - 
 
