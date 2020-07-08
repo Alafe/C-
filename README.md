@@ -93,11 +93,3 @@ Aulas:
 45 - Array de estruturas
 
 46 - Métodos que retornam objetos
-
-47 - 
-
-48 - 
-
-49 - 
-
-50 - 
