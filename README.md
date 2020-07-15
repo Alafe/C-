@@ -4,23 +4,23 @@ Aulas:
 
 01 - Introção: downloads, instação e configurações
 
-02 - primeiro programa em C#
+02 - Primeiro programa em C#
 
-03 - variáveis
+03 - Variáveis
 
-04 - escopo de variáveis
+04 - Escopo de variáveis
 
-05 - operadores e operações
+05 - Operadores e operações
 
-06 - formatando a saída no console
+06 - Formatando a saída no console
 
-07 - constantes
+07 - Constantes
 
-08 - lendo valores do teclado
+08 - Lendo valores do teclado
 
-09 - operações de bitwise
+09 - Operações de bitwise
 
-10 - enumeradores(enum)
+10 - Enumeradores(enum)
 
 11 - typecast
 
@@ -30,66 +30,74 @@ Aulas:
 
 14 - if aninhado
 
-15 - switch-case
+15 - Switch-case
 
 16 - Goto
 
 17 - Array/vetor
 
-18 - matrizes/vetores multidimensionais
+18 - Matrizes/vetores multidimensionais
 
-19 - for
+19 - For
 
-20 - while
+20 - While
 
-21 - do while
+21 - Do while
 
-22 - foreach
+22 - Foreach
 
-23 - métodos para arrays parte 1
+23 - Métodos para arrays parte 1
 
-24 - métodos para arrays parte 2
+24 - Métodos para arrays parte 2
 
-25 - ref
+25 - Ref
 
-26 - out
+26 - Out
 
-27 - params
+27 - Params
 
-28 - classes e objetos
+28 - Classes e objetos
 
-29 - contrutores e destrutores
+29 - Contrutores e destrutores
 
-30 - sobrecarga de contrutores
+30 - Sobrecarga de contrutores
 
-31 - classes static
+31 - Classes static
 
-32 - this
+32 - This
 
-33 - public vs private
+33 - Public vs Private
 
 34 - Herança
 
 35 - Cadeia de herança e contrutor da classe base
 
-36 - membros protected
+36 - Membros protected
 
-37 - herança/Ordem de execução dos contrutores
+37 - Herança/Ordem de execução dos contrutores
 
-38 - métodos virtuais
+38 - Métodos virtuais
 
-39 - classe e métodos abstratos
+39 - Classe e métodos abstratos
 
-40 - classe sealed
+40 - Classe sealed
 
 41 - Acessors GET e SET
 
-42 - indexadores de classes
+42 - Indexadores de classes
 
-43 - interfaces
+43 - Interfaces
 
 44 - Struct
 
 45 - Array de estruturas
 
 46 - Métodos que retornam objetos
+
+47 - Sobrecarga de métodos
+
+48 - Recursividade
+
+49 - Métodos e Variaveis static
+
+50 - Deletates
