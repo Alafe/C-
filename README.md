@@ -100,4 +100,4 @@ Aulas:
 
 49 - Métodos e Variaveis static
 
-50 - Deletates
+50 - Delegates
