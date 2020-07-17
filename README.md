@@ -101,3 +101,11 @@ Aulas:
 49 - Métodos e Variaveis static
 
 50 - Delegates
+
+51 - Argumentos de entrada do programa
+
+52 - Try Catch finaly parte 1
+
+53 - Try Catch finaly parte 2
+
+54 - Namespaces
